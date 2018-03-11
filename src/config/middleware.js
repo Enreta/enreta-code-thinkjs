@@ -32,6 +32,10 @@ module.exports = [
     handle: 'router',
     options: {}
   },
+  {
+    handle:'utils_injection',
+    options: {}
+  },
   'logic',
   'controller'
 ];
